@@ -1,3 +1,11 @@
+/*
+*Make by Gamer_m2082
+*Place file to feux_tricolors directorie
+*For connect https://www.tinkercad.com/things/6xv5UWIi2CF-feux-tricolor-
+* By: Commit and push 24/12/2023
+*Merry Chrystmas (I'm French...)
+*/
+
 #define a 2
 #define b 3
 #define c 4
