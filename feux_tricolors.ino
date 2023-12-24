@@ -4,6 +4,7 @@
 *For connect https://www.tinkercad.com/things/6xv5UWIi2CF-feux-tricolor-
 * By: Commit and push 24/12/2023
 *Merry Chrystmas (I'm French...)
+*For arduino Uno R3
 */
 
 #define a 2
